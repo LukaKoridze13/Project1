@@ -412,6 +412,9 @@ th{
     border-bottom: #E7E7E7 solid 2px;
     justify-content: space-between;
 }
+a{
+    text-decoration: none;
+}
 .tr3{
     
     height: 72px;
